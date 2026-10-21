@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite it as below, together with the article."
+title: "Replication package for: Mapping Public Attitudes toward E-Agriculture in Global Twitter Discourse"
+version: 1.0.0
+date-released: 2026-10-21
+license: MIT
+repository-code: "https://github.com/Endriplasari/eagriculture-twitter-sentiment"
+keywords:
+  - e-agriculture
+  - digital agriculture
+  - sentiment analysis
+  - topic modelling
+  - social media analytics
+authors:
+  - family-names: Boshnjaku
+    given-names: Anila
+    affiliation: Agricultural University of Tirana
+    orcid: "https://orcid.org/0009-0004-1159-4323"
+  - family-names: Plasari
+    given-names: Endri
+    affiliation: Tirana Business University College
+    orcid: "https://orcid.org/0000-0003-1864-5942"
+  - family-names: Fata
+    given-names: Irena
+    affiliation: Canadian Institute of Technology
+    orcid: "https://orcid.org/0009-0003-9154-3413"

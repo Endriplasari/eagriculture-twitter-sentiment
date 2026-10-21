@@ -1,0 +1,21 @@
+{
+  "k": 5,
+  "seeds": [
+    42,
+    1,
+    2,
+    3,
+    4
+  ],
+  "top_n": 10,
+  "mean_best_match_jaccard": 0.3911,
+  "coherence_top_n": 20,
+  "c_v_k5": 0.3886,
+  "c_npmi_k5": -0.0197,
+  "lda": {
+    "num_topics": 5,
+    "passes": 10,
+    "random_state": 42,
+    "filter_extremes": false
+  }
+}
