@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this package, please cite it as below, together with the article."
 title: "Replication package for: Mapping Public Attitudes toward E-Agriculture in Global Twitter Discourse"
 version: 1.0.0
+doi: 10.5281/zenodo.23532401
 date-released: 2026-10-21
 license: MIT
 repository-code: "https://github.com/Endriplasari/eagriculture-twitter-sentiment"

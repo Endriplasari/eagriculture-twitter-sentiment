@@ -4,6 +4,8 @@ Replication package for:
 
 > Boshnjaku, A., Plasari, E. and Fata, I. "Mapping Public Attitudes toward E-Agriculture in Global Twitter Discourse", *AGRIS on-line Papers in Economics and Informatics* (under review).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23532401.svg)](https://doi.org/10.5281/zenodo.23532401)
+
 
 The study analyses 10,009 English-language tweets on e-agriculture posted between 8 July and 26 December 2024. It compares three sentiment classifiers (TextBlob, VADER and the transformer `cardiffnlp/twitter-roberta-base-sentiment`) against 600 manually annotated tweets. It then models topics with Latent Dirichlet Allocation and examines temporal, account-type and geographical patterns.
 
@@ -71,4 +73,6 @@ Code: MIT (see `LICENSE`). Data files in `data/` and `results/`: CC BY 4.0 (see 
 
 ## Citation
 
-If you use this package, please cite the paper and this archive (see `CITATION.cff`).
+If you use this package, please cite the paper and this archive:
+
+> Boshnjaku, A., Plasari, E. and Fata, I. (2026) "Replication package for: Mapping Public Attitudes toward E-Agriculture in Global Twitter Discourse", Zenodo, Version 1.0.0. DOI [10.5281/zenodo.23532401](https://doi.org/10.5281/zenodo.23532401).
